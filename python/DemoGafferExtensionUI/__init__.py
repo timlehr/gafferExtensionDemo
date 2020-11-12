@@ -5,3 +5,4 @@ __import__( "GafferSceneUI" )
 
 import DemoSceneProcessorUI
 import AkaArnoldRenderPreviewUI
+import ExtensionManager
